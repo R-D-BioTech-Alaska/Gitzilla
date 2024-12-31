@@ -1,10 +1,16 @@
-# Gitzilla
+<div align="center"> # Gitzilla
 
 ![License](https://img.shields.io/github/license/R-D-BioTech-Alaska/Gitzilla)
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![GitHub stars](https://img.shields.io/github/stars/R-D-BioTech-Alaska/Gitzilla?style=social)
 
+<div align="center">
+  <img src="https://github.com/R-D-BioTech-Alaska/Gitzilla/blob/main/images/gitzilla_icon.png">
+</div>
+</center>
 Gitzilla is a **minimalist and extensible GUI tool** built with Python's Tkinter library. It streamlines the process of managing SSH keys, connecting to GitHub repositories, and performing essential Git upload operations directly from a user-friendly interface. Whether you're a developer looking to simplify your workflow or someone new to Git and GitHub, Gitzilla offers an intuitive solution to handle your repository interactions seamlessly.
+
+</div>
 
 ## Table of Contents
 
